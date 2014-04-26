@@ -1,0 +1,106 @@
+Annotated Bibliography of useful books
+========================================================
+```{r}
+kahneman_thinking_2013
+```
+
+###   Thinking Fast and Slow
+
+This is a book about recogning your biases. 
+
+
+Conclusion
+
+#### Two Systems
+* Concepts
+Kaheman 
+  * System 1: System 1 is the Haire. This is the automatic process in our mind that makes quick judgements and assessments--hence thinking fast. System 1 holds a model  of the world that is housed in our memory it paress out what is suprising and what is normal and establishes a causal relationship in seconds. This is where skill is housed throught practice why intiution is going to work most of the time. However, system 1 is prone to bias.  Page 416 has a useful summary of - but is prone to bias. This makes sense from an evolutionariy standpoint. 
+  
+  * System 2: System is the toruisue. This is metaphoric process that takes time to make close to rational decisions; it slows things down. 
+  
+
+  
+#### A. Two Selves (Conclusion )
+  * Concepts
+    * Rembering Self
+    * Experiencing self
+    * Duration Neglect
+    * Peak End Rule
+    
+*Important Point.     
+"The neglect of duration combined with the peak-end rule causes a bias that favors a short period of intense joy over a long period moderate happienss" page 409. 
+
+The inverse is also true people generally fear intense short term pain then deal with moderate long term pain.
+
+3. What is evidence
+    
+2. Application
+
+Can we alter this bias or just being aware of the bias sufficient as practical advice. 
+
+
+#### B. Econs and Humans.
+
+1. Concepts
+  * Reasonable vs. Rationality
+A reasonable person is one who is more less in touch with reality and is open to reasonable argument. A rational person is one who is consistent in their beliefs to the nth degree--it requires compliance with the rules of logic that is not realistic. 
+  * Humans
+  * Econs
+  * Libertarian Paternalism
+  * The book *Nudge*
+
+Comment: I have always maintained that people are not rationale.
+
+Kahneman notes that he dislikes that other sometimes claims that his work demonstrates that humans may be irrational. That is not the argument; the argument is that humans don't fit the rational model. 
+
+
+Humans need assistance to make more asute judgements and author points that this is contervesial among Chicago School of Economics and libertarions. The Liberatrian idea that people should be free to choose so long as it does not hurt other people. 
+
+####          Law of Small Numbers
+
+1. Concepts
+  * Large samples are more prescie than small samples page 113
+  * Small samples yield extreme results more often than lare samples do. page 113. 
+  * Smaller sample sizes yield more extreme results. 
+  Code in Marble Example. 
+  * "People are not adequeatly sensitive to sample size" p114
+  * The realibility of the message is secondary to the content of the message.  
+  
+
+We are not comformatable with randomness; we seek to make patterns when in fact; "..A collection of random  events do behave in a highly regular fashion"" page 110. "
+
+Comment: There is a lot of talk about randomness; does this discredit his own studies that he cites; it's just random. --Controlled experiments is most likely my answer. 
+
+### Tom W's Speciality
+
+* Sins of Representativeness: O
+  1. One example is giving to much weight to representativensss in low base rate situations.
+  
+* System 1 will automatically process the information available as if it is true. There is one thing you can do when you have doubts about the quality of the evidence. Let your judgements of probability stay close to the base rate p.153. 
+
+
+### Regression to the Mean
+
+When our attention is called to an event our associate memory will look for a cause. activiation will automatically spread to any cause that is already stored in memory 
+
+Humans have a hard time with regressiion it took Galton. 
+When the correlation between two measures is less than perfect, there will be regression to the mean.  p 180. 
+
+p182. regression to the mean has an explanaion but does not have a cause. 
+
+My comment: So that is the point of the regression line. 
+ha there I go looking for a story or pattern. 
+
+
+
+
+========================================================
+*Outliers*
+
+### First Thoughts
+
+1. Duh
+2. Sociological Imagination.
+3. Startling that there needs to be a balance between indpendence and guidance. 
+4. You can correlate anything is this the case. 
+
