@@ -6,7 +6,7 @@ kahneman_thinking_2013
 
 ###   Thinking Fast and Slow
 
-This is a book about recogning your biases. 
+This is a book about recognizing your biases. 
 
 
 Conclusion
@@ -14,7 +14,7 @@ Conclusion
 #### Two Systems
 * Concepts
 Kaheman 
-  * System 1: System 1 is the Haire. This is the automatic process in our mind that makes quick judgements and assessments--hence thinking fast. System 1 holds a model  of the world that is housed in our memory it paress out what is suprising and what is normal and establishes a causal relationship in seconds. This is where skill is housed throught practice why intiution is going to work most of the time. However, system 1 is prone to bias.  Page 416 has a useful summary of - but is prone to bias. This makes sense from an evolutionariy standpoint. 
+  * System 1: System 1 is the Haire. This is the automatic process in our mind that makes quick judgments and assessments--hence thinking fast. System 1 holds a model  of the world that is housed in our memory it parses out what is surprising and what is normal and establishes a causal relationship in seconds. This is where skill is housed through practice why intuition is going to work most of the time. However, system 1 is prone to bias.  Page 416 has a useful summary of - but is prone to bias. This makes sense from an evolutionary standpoint. 
   
   * System 2: System is the toruisue. This is metaphoric process that takes time to make close to rational decisions; it slows things down. 
   
@@ -22,13 +22,13 @@ Kaheman
   
 #### A. Two Selves (Conclusion )
   * Concepts
-    * Rembering Self
+    * Remembering Self
     * Experiencing self
     * Duration Neglect
     * Peak End Rule
     
 *Important Point.     
-"The neglect of duration combined with the peak-end rule causes a bias that favors a short period of intense joy over a long period moderate happienss" page 409. 
+"The neglect of duration combined with the peak-end rule causes a bias that favors a short period of intense joy over a long period moderate happiness" page 409. 
 
 The inverse is also true people generally fear intense short term pain then deal with moderate long term pain.
 
@@ -54,20 +54,20 @@ Comment: I have always maintained that people are not rationale.
 Kahneman notes that he dislikes that other sometimes claims that his work demonstrates that humans may be irrational. That is not the argument; the argument is that humans don't fit the rational model. 
 
 
-Humans need assistance to make more asute judgements and author points that this is contervesial among Chicago School of Economics and libertarions. The Liberatrian idea that people should be free to choose so long as it does not hurt other people. 
+Humans need assistance to make more astute judgments and author points that this is controversial among Chicago School of Economics and libertarians. The Libertarian idea that people should be free to choose so long as it does not hurt other people. 
 
 ####          Law of Small Numbers
 
 1. Concepts
-  * Large samples are more prescie than small samples page 113
-  * Small samples yield extreme results more often than lare samples do. page 113. 
+  * Large samples are more precise than small samples page 113
+  * Small samples yield extreme results more often than large samples do. page 113. 
   * Smaller sample sizes yield more extreme results. 
   Code in Marble Example. 
-  * "People are not adequeatly sensitive to sample size" p114
-  * The realibility of the message is secondary to the content of the message.  
+  * "People are not adequately sensitive to sample size" p114
+  * The reliability of the message is secondary to the content of the message.  
   
 
-We are not comformatable with randomness; we seek to make patterns when in fact; "..A collection of random  events do behave in a highly regular fashion"" page 110. "
+We are not comfortable with randomness; we seek to make patterns when in fact; "..A collection of random  events do behave in a highly regular fashion"" page 110. "
 
 Comment: There is a lot of talk about randomness; does this discredit his own studies that he cites; it's just random. --Controlled experiments is most likely my answer. 
 
@@ -76,17 +76,17 @@ Comment: There is a lot of talk about randomness; does this discredit his own st
 * Sins of Representativeness: O
   1. One example is giving to much weight to representativensss in low base rate situations.
   
-* System 1 will automatically process the information available as if it is true. There is one thing you can do when you have doubts about the quality of the evidence. Let your judgements of probability stay close to the base rate p.153. 
+* System 1 will automatically process the information available as if it is true. There is one thing you can do when you have doubts about the quality of the evidence. Let your judgments of probability stay close to the base rate p.153. 
 
 
 ### Regression to the Mean
 
-When our attention is called to an event our associate memory will look for a cause. activiation will automatically spread to any cause that is already stored in memory 
+When our attention is called to an event our associate memory will look for a cause. activation will automatically spread to any cause that is already stored in memory 
 
-Humans have a hard time with regressiion it took Galton. 
+Humans have a hard time with regression it took Galton. 
 When the correlation between two measures is less than perfect, there will be regression to the mean.  p 180. 
 
-p182. regression to the mean has an explanaion but does not have a cause. 
+p182. regression to the mean has an explanation but does not have a cause. 
 
 My comment: So that is the point of the regression line. 
 ha there I go looking for a story or pattern. 
@@ -101,6 +101,49 @@ ha there I go looking for a story or pattern.
 
 1. Duh
 2. Sociological Imagination.
-3. Startling that there needs to be a balance between indpendence and guidance. 
+3. Startling that there needs to be a balance between independence and guidance. 
 4. You can correlate anything is this the case. 
 
+=====================================================================
+
+*Lila: An Inquiry Into Morals*
+
+Robert M. Pirsig
+
+The author of *Zen and the Art of Motorcycle Maintaince"
+
+Discussing in more detail the Metaphyisc of Qualit and the issues of subject matter philosophy. "
+
+
+This book touches on key concepts in Anthropology, the social construction of mental illness, and the relationships between  Native Americans and Europeans.
+
+
+A premise of the book are that there are value patterns in life and they consist of the following
+
+* biological
+
+* social
+
+* intellectual
+
+Biological value patterns consists of sex, eating, patterns that keep us alive and reporduce the spiecies, and also tribalism. Social value patterns may supress biological valaue patterns but in the long run are benefical for society. It is benefitical for a more stability not to have sex with everyone whenever you fee like it. Intellectual value patterns are of a high order than social value patterns.
+
+At times these value conflict with each other. That is where the concept of morals come into play within this book. 
+
+This book gives a useful framework for understanding politics in 2016. Conservative republicans have argued that the reason for America's problems is the lack of social morals--too much sex, and freedom to do what ever you want. Social conservatives seem to value social value patterns over intellectuval value patterns. This year the Republicans have turned to Donald Trump and seem to be regressing to valuing biological value patterns over social value patterns. There is some element to this but I think some are getting carried away with the celebraty aspect of politics. 
+
+Key takeway at the end of the book is Good is not an adjective but a noun. Greate quote is "Take Care of your Goodness" . 
+
+Key Concepts:
+
+*Biological Value Patterns*
+
+*Social Value Patterns*
+
+*Interllectual Value Patterns*
+
+
+=================================================================
+
+*Zen and the Art of Motorcycle Mainteance*
+(https://youtu.be/0Bo3qaJIZUQ)
