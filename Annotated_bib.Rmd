@@ -1,8 +1,5 @@
 Annotated Bibliography of useful books
 ========================================================
-```{r}
-kahneman_thinking_2013
-```
 
 ###   Thinking Fast and Slow
 
@@ -112,13 +109,15 @@ Robert M. Pirsig
 
 The author of *Zen and the Art of Motorcycle Maintaince"
 
-Discussing in more detail the Metaphyisc of Qualit and the issues of subject matter philosophy. "
+Discussing in more detail the Metaphyisc of Quality and the issues of subject matter philosophy. 
 
 
 This book touches on key concepts in Anthropology, the social construction of mental illness, and the relationships between  Native Americans and Europeans.
 
 
-A premise of the book are that there are value patterns in life and they consist of the following
+A premise of the book is that there are two types of quality, static and dynamic. Static quality is the taken for granted basis of quality and dynamic quality is the unseen that allows for change and growth-evolution. 
+
+* inorganic
 
 * biological
 
@@ -126,21 +125,44 @@ A premise of the book are that there are value patterns in life and they consist
 
 * intellectual
 
-Biological value patterns consists of sex, eating, patterns that keep us alive and reporduce the spiecies, and also tribalism. Social value patterns may supress biological valaue patterns but in the long run are benefical for society. It is benefitical for a more stability not to have sex with everyone whenever you fee like it. Intellectual value patterns are of a high order than social value patterns.
+Biological value patterns consists of sex, eating, patterns that keep us alive and reproduce the species, and also tribalism. Social value patterns may suppress biological value patterns but in the long run are beneficial for society. It is beneficial for a more stability not to have sex with everyone whenever you fee like it. Intellectual value patterns are of a high order than social value patterns.
 
 At times these value conflict with each other. That is where the concept of morals come into play within this book. 
 
-This book gives a useful framework for understanding politics in 2016. Conservative republicans have argued that the reason for America's problems is the lack of social morals--too much sex, and freedom to do what ever you want. Social conservatives seem to value social value patterns over intellectuval value patterns. This year the Republicans have turned to Donald Trump and seem to be regressing to valuing biological value patterns over social value patterns. There is some element to this but I think some are getting carried away with the celebraty aspect of politics. 
+This book gives a useful framework for understanding politics in 2016. Conservative republicans have argued that the reason for America's problems is the lack of social morals--too much sex, and freedom to do what ever you want. Social conservatives seem to value social value patterns over intellectual value patterns. This year the Republicans have turned to Donald Trump and seem to be regressing to valuing biological value patterns over social value patterns. There is some element to this but I think some are getting carried away with the celebrity aspect of politics. 
 
-Key takeway at the end of the book is Good is not an adjective but a noun. Greate quote is "Take Care of your Goodness" . 
+Key takeaway at the end of the book is Good is not an adjective but a noun. G
 
-Key Concepts:
+### Great Quotes
+
+* "Take Care of your Goodness"* p.467 Dakota 
+
+* "Good is a noun"* p.468
+
+* "Karma is the pain and suffering that results from clinging to the static patterns of the world"*  p. 455
+
+* While living be a dead man, be completely dead, and then do as you please, and all will be well* p. 454. 
+
+
+### Key Concepts:
+
+* Inorganic Value Patters*
 
 *Biological Value Patterns*
 
 *Social Value Patterns*
 
 *Interllectual Value Patterns*
+
+
+### Supporting Material:
+
+
+[MOQ Website]("http://robertpirsig.org/Intro.html")
+
+[NPR Interview-1974]("https://www.youtube.com/watch?v=RULOIr4MJII")
+
+[BBC Interview]("https://www.youtube.com/watch?v=m8zdT5jYlro")
 
 
 =================================================================
